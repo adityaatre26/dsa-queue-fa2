@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+
+.intersection {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.lane {
+  text-align: center;
+}
+
+.traffic-light {
+  margin: 10px auto;
+}
+
+.light {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  margin: 5px;
+  background-color: gray;
+}
+
+.green {
+  background-color: green;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.red {
+  background-color: red;
+}
+
+.queue {
+  margin-top: 10px;
+}
+
+.car {
+  font-size: 18px;
+  margin: 5px 0;
+}
